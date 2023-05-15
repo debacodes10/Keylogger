@@ -12,4 +12,3 @@ def secret():
     postlog.postlog()
         
 secret()
-    
